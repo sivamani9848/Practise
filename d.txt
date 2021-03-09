@@ -1,3 +1,0 @@
-i am practicing branch concept
-added second line in loacl branch
-added third line in git hub in staging branch
